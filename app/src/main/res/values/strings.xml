@@ -11,6 +11,27 @@
     //verify screen
     <string name="verify_phone_msg">WhatsApp will send and SMS message to verify your phone number. Enter your country code and phone number.</string>
     <string-array name="spinner_country">
+        <item>Kenya</item>
+        <item>Uganda</item>
+        <item>Tanzania</item>
+        <item>Ethiopia</item>
+        <item>Somalia</item>
+        <item>Rwanda</item>
+        <item>South Sudan</item>
+        <item>Egypt</item>
+        <item>USA</item>
+        <item>Canada</item>
+        <item>England</item>
+        <item>Germany</item>
+        <item>China</item>
+        <item>Japan</item>
+        <item>Russia</item>
+        <item>UAE</item>
+        <item>Portugal</item>
+        <item>New Zealand</item>
+        <item>France</item>
+        <item>Singapore</item>
+        <item>Italy</item>
         <item>India</item>
     </string-array>
 
